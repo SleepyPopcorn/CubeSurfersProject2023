@@ -1820,6 +1820,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cube
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
+      propertyPath: m_TagString
+      value: Cube
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
 --- !u!1001 &62404764
@@ -2647,6 +2651,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cube
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
+      propertyPath: m_TagString
+      value: Cube
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
 --- !u!1 &107457178
@@ -2979,6 +2987,10 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 2fbea9de4bb5e2046a02447fa3c8fdb0, type: 2}
     - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
       propertyPath: m_Name
+      value: Cube
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
+      propertyPath: m_TagString
       value: Cube
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -3468,6 +3480,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cube
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
+      propertyPath: m_TagString
+      value: Cube
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
 --- !u!1001 &131410834
@@ -3867,6 +3883,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cube
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
+      propertyPath: m_TagString
+      value: Cube
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
 --- !u!1 &154386033 stripped
@@ -4178,6 +4198,10 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 2fbea9de4bb5e2046a02447fa3c8fdb0, type: 2}
     - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
       propertyPath: m_Name
+      value: Cube
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
+      propertyPath: m_TagString
       value: Cube
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -11520,6 +11544,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cube
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
+      propertyPath: m_TagString
+      value: Cube
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
 --- !u!1 &455729170 stripped
@@ -12758,6 +12786,10 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 2fbea9de4bb5e2046a02447fa3c8fdb0, type: 2}
     - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
       propertyPath: m_Name
+      value: Cube
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
+      propertyPath: m_TagString
       value: Cube
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -15253,6 +15285,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cube
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
+      propertyPath: m_TagString
+      value: Cube
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
 --- !u!1 &603197209
@@ -15803,6 +15839,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cube
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
+      propertyPath: m_TagString
+      value: Cube
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
 --- !u!4 &614898437 stripped
@@ -16017,6 +16057,10 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 2fbea9de4bb5e2046a02447fa3c8fdb0, type: 2}
     - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
       propertyPath: m_Name
+      value: Cube
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
+      propertyPath: m_TagString
       value: Cube
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -17623,6 +17667,10 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 2fbea9de4bb5e2046a02447fa3c8fdb0, type: 2}
     - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
       propertyPath: m_Name
+      value: Cube
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
+      propertyPath: m_TagString
       value: Cube
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -22197,6 +22245,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cube
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
+      propertyPath: m_TagString
+      value: Cube
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
 --- !u!4 &877499026 stripped
@@ -22569,6 +22621,10 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 2fbea9de4bb5e2046a02447fa3c8fdb0, type: 2}
     - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
       propertyPath: m_Name
+      value: Cube
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
+      propertyPath: m_TagString
       value: Cube
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -23638,6 +23694,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MainCube
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
+      propertyPath: m_TagString
+      value: Cube
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
 --- !u!1001 &945731967
@@ -24494,6 +24554,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 3bf54ad1904b01a429016a7fe5d9e825, type: 3}
       propertyPath: m_Name
       value: character
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3bf54ad1904b01a429016a7fe5d9e825, type: 3}
+      propertyPath: m_TagString
+      value: Cube
       objectReference: {fileID: 0}
     - target: {fileID: 8309135489324557457, guid: 3bf54ad1904b01a429016a7fe5d9e825, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -26761,6 +26825,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cube
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
+      propertyPath: m_TagString
+      value: Cube
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
 --- !u!4 &1090617133 stripped
@@ -26971,7 +27039,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -6.9985104
+      value: -6.762
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
       propertyPath: m_LocalRotation.w
@@ -27033,11 +27101,24 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1101213610}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.01, y: 0.01, z: 0.01}
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Size: {x: 0.01, y: 15.638595, z: 0.01}
+  m_Center: {x: 0, y: 7.814295, z: 0}
+--- !u!114 &1101213615
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1101213610}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6c988d81e724e34b809c62ead81b65f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  MC_CubeCountControl: {fileID: 0}
 --- !u!4 &1106543318 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 470948, guid: 4b9e4682d2e27a44ba2817b78cb6f1f4, type: 3}
@@ -27112,6 +27193,10 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 2fbea9de4bb5e2046a02447fa3c8fdb0, type: 2}
     - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
       propertyPath: m_Name
+      value: Cube
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
+      propertyPath: m_TagString
       value: Cube
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -29412,6 +29497,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cube
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
+      propertyPath: m_TagString
+      value: Cube
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
 --- !u!1001 &1219343003
@@ -30684,6 +30773,10 @@ PrefabInstance:
       value: Cube
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
+      propertyPath: m_TagString
+      value: Cube
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -30905,6 +30998,10 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 2fbea9de4bb5e2046a02447fa3c8fdb0, type: 2}
     - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
       propertyPath: m_Name
+      value: Cube
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
+      propertyPath: m_TagString
       value: Cube
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -32689,6 +32786,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cube
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
+      propertyPath: m_TagString
+      value: Cube
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
 --- !u!4 &1376532345 stripped
@@ -33093,6 +33194,10 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 2fbea9de4bb5e2046a02447fa3c8fdb0, type: 2}
     - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
       propertyPath: m_Name
+      value: Cube
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
+      propertyPath: m_TagString
       value: Cube
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -34239,6 +34344,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cube
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
+      propertyPath: m_TagString
+      value: Cube
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
 --- !u!4 &1480025734 stripped
@@ -34315,6 +34424,10 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 2fbea9de4bb5e2046a02447fa3c8fdb0, type: 2}
     - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
       propertyPath: m_Name
+      value: Cube
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
+      propertyPath: m_TagString
       value: Cube
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -36490,6 +36603,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cube
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
+      propertyPath: m_TagString
+      value: Cube
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
 --- !u!4 &1594827971 stripped
@@ -38284,6 +38401,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cube
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
+      propertyPath: m_TagString
+      value: Cube
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
 --- !u!4 &1699561587 stripped
@@ -38795,7 +38916,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 293329354}
         m_TargetAssemblyTypeName: GameOverButtons, Assembly-CSharp
-        m_MethodName: Retry
+        m_MethodName: RetryForOcean
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -39310,6 +39431,10 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 2fbea9de4bb5e2046a02447fa3c8fdb0, type: 2}
     - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
       propertyPath: m_Name
+      value: Cube
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
+      propertyPath: m_TagString
       value: Cube
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -43961,6 +44086,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cube
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
+      propertyPath: m_TagString
+      value: Cube
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
 --- !u!1001 &1981247762
@@ -44636,6 +44765,10 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 2fbea9de4bb5e2046a02447fa3c8fdb0, type: 2}
     - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
       propertyPath: m_Name
+      value: Cube
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
+      propertyPath: m_TagString
       value: Cube
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -45729,6 +45862,10 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 2fbea9de4bb5e2046a02447fa3c8fdb0, type: 2}
     - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
       propertyPath: m_Name
+      value: Cube
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cd98ca1267e5d8e4ba84b1fc53704de2, type: 3}
+      propertyPath: m_TagString
       value: Cube
       objectReference: {fileID: 0}
     m_RemovedComponents: []

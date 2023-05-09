@@ -11,11 +11,14 @@ public class GameOverButtons : MonoBehaviour
         gameObject.SetActive(true);
     }
 
-    public void Retry()
+    public void RetryForDesert()
     {
         SceneManager.LoadScene("Game");
     }
-
+    public void RetryForOcean()
+    {
+        SceneManager.LoadScene("OceanStage");
+    }
     public void MainMenu()
     {
         SceneManager.LoadScene("MainMenu");

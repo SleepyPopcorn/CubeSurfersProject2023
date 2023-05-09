@@ -28,13 +28,7 @@ public class CubeControl : MonoBehaviour
 
     private void SetCubeRaycast()
     {           //Raycast(transform.position, directionDown, out raycastHit, 0.07f)
-        if (Physics.Raycast(transform.position, directionDown, out raycastHit, 0.07f))
-        {
-            if (raycastHit.transform.name == "finishLine")
-            {
-                MC_CubeCountControl.CompelteStage();
-            }
-        }
+   
         if ((Physics.BoxCast(transform.position, transform.lossyScale / 300, directionBack, out raycastHit, transform.rotation, 0.014f)) ||
             (Physics.Raycast(transform.position, directionRight, out raycastHit, 0.05f)) ||
             (Physics.Raycast(transform.position, directionLeft, out raycastHit, 0.07f)))
