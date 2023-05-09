@@ -24570,6 +24570,20 @@ MonoBehaviour:
   waveLength: 0.71
   edgeBlend: 1
   forceFlatShading: 1
+--- !u!64 &990746793
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 990746788}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 9319e3a1ab5b84aec9c02f29bbb7f945, type: 2}
 --- !u!4 &991291190 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 470948, guid: 4b9e4682d2e27a44ba2817b78cb6f1f4, type: 3}
