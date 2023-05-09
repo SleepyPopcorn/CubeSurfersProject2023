@@ -11,16 +11,13 @@ public class ScoreManager : MonoBehaviour
 
     public TMP_Text GemScoreText;
     public TMP_Text CubeScoreText;
-    private bool isThereInstance = false;
 
-    [SerializeField] int Gems = 0;
+    [SerializeField] public int Gems = 0;
     [SerializeField] int Cubes = 0;
 
     private void Awake()
     {
-            if(isThereInstance == false)
-            instance = this;
-            isThereInstance = true;
+        instance = this;
     }
 
     void Start()
@@ -36,9 +33,9 @@ public class ScoreManager : MonoBehaviour
     public void SetCubeScore()
     {   
             
-            Cubes = mc_cubecountcontrol.cubeList.Count;
-            PlayerPrefs.SetInt("FinalScore", (Cubes * 10) + (Gems * 10));
-            gameObject.SetActive(false);
+        Cubes = mc_cubecountcontrol.cubeList.Count;
+        PlayerPrefs.SetInt("FinalScore", (Cubes * 10) + (Gems * 10));
+        gameObject.SetActive(false);
 
     }
 
