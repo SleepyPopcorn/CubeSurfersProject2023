@@ -25,7 +25,7 @@ public class MC_GameOver : MonoBehaviour
 
     private void SetCubeRaycast()
     {
-        if (Physics.Raycast(transform.position, directionFront, out raycastHit, 0.07f))
+        if (Physics.BoxCast(transform.position, transform.lossyScale /300, directionFront, out raycastHit, transform.rotation, 0.045f))
         {
             if (raycastHit.transform.name == "cactuse")
             {
