@@ -39,7 +39,7 @@ public class CubeControl : MonoBehaviour
                 MC_CubeCountControl.NewCube(gameObject);
             }
         }               //Raycast(transform.position, directionFront, out raycastHit, 0.07f)
-        else if (Physics.BoxCast(transform.position, transform.lossyScale /300, directionFront, out raycastHit, transform.rotation, 0.010f))
+        else if (Physics.BoxCast(transform.position, transform.lossyScale /300, directionFront, out raycastHit, transform.rotation, 0.045f))
         {
             if (raycastHit.transform.name == "cactuse")
             {
