@@ -29,7 +29,7 @@ public class CubeControl : MonoBehaviour
     private void SetCubeRaycast()
     {           //Raycast(transform.position, directionDown, out raycastHit, 0.07f)
    
-        if ((Physics.BoxCast(transform.position, transform.lossyScale / 300, directionBack, out raycastHit, transform.rotation, 0.014f)) ||
+        if ((Physics.BoxCast(transform.position, transform.lossyScale / 300, directionBack, out raycastHit, transform.rotation, 0.045f)) ||
             (Physics.Raycast(transform.position, directionRight, out raycastHit, 0.05f)) ||
             (Physics.Raycast(transform.position, directionLeft, out raycastHit, 0.07f)))
         {
