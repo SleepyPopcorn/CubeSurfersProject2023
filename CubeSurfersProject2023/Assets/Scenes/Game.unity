@@ -15529,7 +15529,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 28e1608e3e6f64b4c8b11d86aa9b32a5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  EndScoreText: {fileID: 1124996152}
+  EndScoreText: {fileID: 1106701052}
 --- !u!114 &1106701052
 MonoBehaviour:
   m_ObjectHideFlags: 0
