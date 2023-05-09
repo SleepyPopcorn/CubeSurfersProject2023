@@ -11,9 +11,14 @@ public class StageComplete : MonoBehaviour
         gameObject.SetActive(true);
     }
 
-    public void Retry()
+    public void NextLevelDesert()
     {
         SceneManager.LoadScene("Game");
+    }
+
+    public void NextLevelOcean()
+    {
+        SceneManager.LoadScene("OceanStage");
     }
 
     public void MainMenu()

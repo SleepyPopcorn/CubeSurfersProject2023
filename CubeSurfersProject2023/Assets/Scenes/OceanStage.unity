@@ -3951,7 +3951,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Main Menu
+  m_Text: MAIN MENU
 --- !u!222 &163143344
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -15590,7 +15590,7 @@ GameObject:
   - component: {fileID: 678956986}
   - component: {fileID: 678956985}
   m_Layer: 5
-  m_Name: RetryButton
+  m_Name: NextLevelButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15662,7 +15662,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1932213403}
         m_TargetAssemblyTypeName: StageComplete, Assembly-CSharp
-        m_MethodName: Retry
+        m_MethodName: NextLevelDesert
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -15898,7 +15898,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Retry
+  m_Text: NEXT LEVEL
 --- !u!222 &683189482
 CanvasRenderer:
   m_ObjectHideFlags: 0

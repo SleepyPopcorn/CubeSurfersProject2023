@@ -2974,7 +2974,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Main Menu
+  m_Text: MAIN MENU
 --- !u!222 &163143344
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10298,7 +10298,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1932213403}
         m_TargetAssemblyTypeName: StageComplete, Assembly-CSharp
-        m_MethodName: Retry
+        m_MethodName: NextLevelOcean
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -10534,7 +10534,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Retry
+  m_Text: NEXT LEVEL
 --- !u!222 &683189482
 CanvasRenderer:
   m_ObjectHideFlags: 0
