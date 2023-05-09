@@ -18837,6 +18837,19 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: b83991803b3b65c40ae123a6cbe228d1, type: 3}
   m_PrefabInstance: {fileID: 743750284}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &739833357
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 739833356}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c98084f8e8ce43a4f913c3fc24045e29, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  MC_CubeCountControl: {fileID: 0}
 --- !u!111 &739833358
 Animation:
   m_ObjectHideFlags: 0
