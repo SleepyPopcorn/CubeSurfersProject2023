@@ -25,6 +25,7 @@ public class MC_CubeCountControl : MonoBehaviour
         _gameObject.transform.position = new Vector3(lastCube.transform.position.x, lastCube.transform.position.y - 0.1f, lastCube.transform.position.z);
         _gameObject.transform.SetParent(transform);
         cubeList.Add(_gameObject);
+        //ScoreManager.instance.AddCubeScore();
         UpdateLastCube();
     }
 
@@ -32,6 +33,7 @@ public class MC_CubeCountControl : MonoBehaviour
     {
         _gameObject.transform.parent = null;
         cubeList.Remove(_gameObject);
+        //ScoreManager.instance.DecreaseCubeScore();
         UpdateLastCube();
     }
 
@@ -47,6 +49,7 @@ public class MC_CubeCountControl : MonoBehaviour
     {
         MC_Controls.fwdMovementSpeed = 0;
         MC_Controls.horizontalMovementSpeed = 0;
+        ScoreManager.instance.SetCubeScore();
         stageComplete.Activate();
     }
 
