@@ -44,12 +44,9 @@ public class ScoreManager : MonoBehaviour
 
     public void AddGemScore()
     {
-        if (isThereInstance == true)
-        {
         Gems += 1;
         GemScoreText.text = "SCORE: " + (Gems * 10).ToString();
         PlayerPrefs.SetInt("FinalScore", (Cubes * 10) + (Gems * 10));
-        }
     }
     /*public void AddCubeScore()
     {
