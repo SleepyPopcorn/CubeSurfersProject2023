@@ -58,8 +58,10 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\MC\MC_Controls.cs" />
     <Compile Include="Assets\Scripts\Cube\BadCubeControl.cs" />
+    <Compile Include="Assets\Scripts\Score &amp; Collectibles\ScoreManager.cs" />
     <Compile Include="Assets\Scripts\MC\MC_GetInput.cs" />
     <Compile Include="Assets\Scripts\MainMenu\MainMenu.cs" />
+    <Compile Include="Assets\Scripts\Score &amp; Collectibles\SetFinalScore.cs" />
     <Compile Include="Assets\Scripts\Camera\CameraFollow.cs" />
     <Compile Include="Assets\Scripts\MC\MC_GameOver.cs" />
     <Compile Include="Assets\Scripts\Water.cs" />
@@ -67,9 +69,8 @@
     <Compile Include="Assets\Scripts\MC\MC_Fall.cs" />
     <Compile Include="Assets\Scripts\GameOver\StageComplete.cs" />
     <Compile Include="Assets\Scripts\GameOver\GameOverButtons.cs" />
-    <Compile Include="Assets\Scripts\Cube\CubeControl.cs" />
-    <Compile Include="Assets\Scripts\Score &amp; Collectibles\ScoreManager.cs" />
     <Compile Include="Assets\Scripts\Score &amp; Collectibles\GemController.cs" />
+    <Compile Include="Assets\Scripts\Cube\CubeControl.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Free Low Poly Desert Pack\Materials\Shaders\Vertex_Color_Unlit.shader" />
