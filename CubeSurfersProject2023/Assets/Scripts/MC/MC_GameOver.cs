@@ -29,6 +29,7 @@ public class MC_GameOver : MonoBehaviour
         {
             if (raycastHit.transform.name == "cactuse")
             {
+                ScoreManager.instance.SetCubeScore();
                 MC_Fall.Fall();
                 GameOverButtons.Activate();
             }
