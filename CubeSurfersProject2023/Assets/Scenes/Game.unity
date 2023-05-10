@@ -15424,7 +15424,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: b83991803b3b65c40ae123a6cbe228d1, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b83991803b3b65c40ae123a6cbe228d1, type: 3}
       propertyPath: m_LocalScale.x
@@ -15482,6 +15482,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ch29_nonPBR@Ninja Idle
       objectReference: {fileID: 0}
+    - target: {fileID: 2223639932434330405, guid: b83991803b3b65c40ae123a6cbe228d1, type: 3}
+      propertyPath: m_CullingType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2223639932434330405, guid: b83991803b3b65c40ae123a6cbe228d1, type: 3}
+      propertyPath: m_Animations.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2223639932434330405, guid: b83991803b3b65c40ae123a6cbe228d1, type: 3}
+      propertyPath: m_Animations.Array.data[1]
+      value: 
+      objectReference: {fileID: -203655887218126122, guid: b83991803b3b65c40ae123a6cbe228d1, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b83991803b3b65c40ae123a6cbe228d1, type: 3}
 --- !u!1001 &1070193570
