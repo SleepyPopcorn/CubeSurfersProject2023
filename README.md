@@ -4,5 +4,7 @@ Mobile game development project submission for Ankara University COM4502-B Appli
 
 # Made By
 Oğuz Tasalı
-Buğrahan Hazman 
+
+Buğrahan Hazman
+
 İremnaz Savur
