@@ -2,6 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using HmsPlugin;
+using HuaweiMobileServices;
+using HuaweiMobileServices.Utils;
+using HuaweiMobileServices.Id;
 
 public class StageComplete : MonoBehaviour
 {
@@ -13,16 +17,19 @@ public class StageComplete : MonoBehaviour
 
     public void NextLevelDesert()
     {
+        HMSAdsKitManager.Instance.ShowInterstitialAd();
         SceneManager.LoadScene("Game");
     }
 
     public void NextLevelOcean()
     {
+        HMSAdsKitManager.Instance.ShowInterstitialAd();
         SceneManager.LoadScene("OceanStage");
     }
 
     public void MainMenu()
     {
+        HMSAdsKitManager.Instance.ShowInterstitialAd();
         SceneManager.LoadScene("MainMenu");
     }
 }
