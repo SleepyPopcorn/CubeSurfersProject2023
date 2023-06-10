@@ -55,14 +55,18 @@
      <Compile Include="Assets\Scripts\MainMenu\MainMenu.cs" />
      <Compile Include="Assets\Scripts\Score &amp; Collectibles\SetFinalScore.cs" />
      <Compile Include="Assets\Scripts\Camera\CameraFollow.cs" />
+     <Compile Include="Assets\Scripts\HEART\HeartCheck.cs" />
      <Compile Include="Assets\Scripts\MC\MC_GameOver.cs" />
      <Compile Include="Assets\Scripts\Environment\Water.cs" />
      <Compile Include="Assets\Scripts\MC\MC_CubeCountControl.cs" />
      <Compile Include="Assets\Scripts\MC\Ragdoller.cs" />
      <Compile Include="Assets\Scripts\MC\MC_Fall.cs" />
      <Compile Include="Assets\Scripts\GameOver\StageComplete.cs" />
+     <Compile Include="Assets\HealthHeartSystem\Scripts\HealthBarController.cs" />
      <Compile Include="Assets\Scripts\GameOver\GameOverButtons.cs" />
      <Compile Include="Assets\Scripts\Score &amp; Collectibles\GemController.cs" />
+     <Compile Include="Assets\HealthHeartSystem\Scripts\PlayerStats.cs" />
+     <Compile Include="Assets\HealthHeartSystem\Scripts\HealthBarHUDTester.cs" />
      <Compile Include="Assets\Scripts\Score &amp; Collectibles\SetGameOverScore.cs" />
      <Compile Include="Assets\Scripts\Cube\CubeControl.cs" />
      <None Include="Assets\Free Low Poly Desert Pack\Materials\Shaders\Vertex_Color_Unlit.shader" />
@@ -77,6 +81,7 @@
      <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
+     <None Include="Assets\HealthHeartSystem\readme.txt" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
      <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />

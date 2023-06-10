@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - Cube
+  - heart
+  - startButton
+  - heart1
+  - heart3
+  - heart2
   layers:
   - Default
   - TransparentFX
